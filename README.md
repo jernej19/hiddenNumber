@@ -1,1 +1,1 @@
-# hiddenNumber
+Guess a number python game
